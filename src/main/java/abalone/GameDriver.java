@@ -37,7 +37,6 @@ public class GameDriver {
      * @param args None used.
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, PATH, "path", JOptionPane.DEFAULT_OPTION);
         player1 = null;
         player2 = null;
         // Ensure only valid layout and player options are offered to the player.

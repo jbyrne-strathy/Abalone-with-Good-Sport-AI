@@ -29,7 +29,7 @@ Some combination of these two systems may produce a single agent capable of sati
 ### Java
 The game requires that you have Java 7 or higher installed.  If you don't have it already, you can download the latest Java version from [java.com](https://java.com/en/download/).  Java can be installed and uninstalled in the normal way for Windows, Mac or Linux.
 ### Abalone
-The game itself does not need installed.  Simply download the zip file using the link on the right, then unzip it wherever you like.  Open the unzipped folder then run the file, Abalone-v1.0.jar to start the game.
+The game itself does not need installed.  You simply need the Abalone-x.x.jar file and the resources folder.  Copy both into the same location and run by double clicking the jar file.
 
 ## Running the Game
 ### Game Setup
